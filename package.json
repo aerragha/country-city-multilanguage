@@ -1,0 +1,19 @@
+{
+  "name": "country-city-multilanguage",
+  "version": "1.0.0",
+  "description": "NPM package to list countries and cities in multiple languages (Englow, French, and Arabic)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerragha/country-city-multilanguage.git"
+  },
+  "author": "Erraghay ayoub <erraghayayoub@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aerragha/country-city-multilanguage/issues"
+  },
+  "homepage": "https://github.com/aerragha/country-city-multilanguage#readme"
+}
