@@ -1,7 +1,7 @@
 {
   "name": "country-city-multilanguage",
   "version": "1.0.0",
-  "description": "A package to list countries and cities in multiple languages (Englow, French, and Arabic)",
+  "description": "A package to list countries and cities in multiple languages (English, French, and Arabic)",
   "main": "main.js",
   "scripts": { 
     "test": "echo \"Error: no test specified\" && exit 1"
