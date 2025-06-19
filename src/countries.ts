@@ -1,4 +1,4 @@
-import countriesData from '../data/countries.min.json';
+import countriesData from './data/countries.min.json';
 import { Country } from './types';
 
 export const getCountries = (): Country[] => {

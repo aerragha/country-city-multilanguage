@@ -1,5 +1,5 @@
 import { City, CityObj } from './types';
-import citiesData from '../data/cities.min.json';
+import citiesData from './data/cities.min.json';
 
 const cities: CityObj[] = citiesData as CityObj[];
 

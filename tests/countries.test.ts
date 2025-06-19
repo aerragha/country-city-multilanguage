@@ -1,5 +1,5 @@
 import { getCountries, getCountryByLabel } from '../src/countries';
-import countriesData from '../data/countries.min.json';
+import countriesData from '../src/data/countries.min.json';
 
 describe('countries module', () => {
     it('should return all countries data', () => {

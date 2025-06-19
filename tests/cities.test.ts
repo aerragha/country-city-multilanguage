@@ -1,5 +1,5 @@
 import { getCities, getCitiesByCountry, getCityByLabel } from '../src/cities';
-import citiesData from '../data/cities.min.json';
+import citiesData from '../src/data/cities.min.json';
 
 describe('cities module', () => {
     it('should return all cities data', () => {
